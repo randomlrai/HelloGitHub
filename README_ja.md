@@ -20,6 +20,7 @@
 
 > 📝 **個人メモ**: このリポジトリは学習目的でフォークしました。特にPythonとオープンソースプロジェクトの調査に役立てています。
 > 気になったプロジェクトは [bookmarks.md](bookmarks.md) にまとめています。
+> 個人的に特に注目しているカテゴリ: **Python**、**開発ツール**、**CLI ツール**。
 
 ## コンテンツ
 
@@ -31,5 +32,4 @@
 | [第 120 号](/content/HelloGitHub120.md) | [第 119 号](/content/HelloGitHub119.md) | [第 118 号](/content/HelloGitHub118.md) | [第 117 号](/content/HelloGitHub117.md) | [第 116 号](/content/HelloGitHub116.md) |
 | [第 115 号](/content/HelloGitHub115.md) | [第 114 号](/content/HelloGitHub114.md) | [第 113 号](/content/HelloGitHub113.md) | [第 112 号](/content/HelloGitHub112.md) | [第 111 号](/content/HelloGitHub111.md) |
 | [第 110 号](/content/HelloGitHub110.md) | [第 109 号](/content/HelloGitHub109.md) | [第 108 号](/content/HelloGitHub108.md) | [第 107 号](/content/HelloGitHub107.md) | [第 106 号](/content/HelloGitHub106.md) |
-| [第 105 号](/content/HelloGitHub105.md) | [第 104 号](/content/HelloGitHub104.md) | [第 103 号](/content/HelloGitHub103.md) | [第 102 号](/content/HelloGitHub102.md) | [第 101 号](/content/HelloGitHub101.md) |
-| [第 100 号](/content/HelloGitHub100.md) | 
+| [第 105 号](/content/HelloGitHub105.md) | [第 104 号](/content/HelloGitHub104.md) | [第 103 号](/content/HelloGitHub103.md) | [第 102 号](/content/HelloGitHub102.md) | [第 101 号](/content/HelloGitH
